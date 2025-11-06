@@ -9,7 +9,7 @@ Jestem...
 ## Wybrane projekty
 |Project|Opis|Link|
 |-------|----|----|
-|NWWO_INLS3_PG|Projekt z zajęć WSB||
+|NWWO_INLS3_PG|Projekt z zajęć WSB|https://github.com/LesyaLesnichok/NWWO_INLS3_PG|
 
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=LesyaLesnichok&show_icons=true&theme=tokyonight)
