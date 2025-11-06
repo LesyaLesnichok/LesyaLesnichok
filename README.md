@@ -7,7 +7,7 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logoColor=green)
 
 ## Statystyki
-![Moje statystyki](https://github-readme-stats.vercel.app/api?username=LesyaLesnichok=anuraghazra&show_icons=true&theme=tokyonight)
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=LesyaLesnichok&show_icons=true&theme=tokyonight)
 
 ### Kontakt 
 [![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logoColor=red)](https://gmail.com)
