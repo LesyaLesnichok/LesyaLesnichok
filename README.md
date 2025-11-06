@@ -6,6 +6,11 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logoColor=green)
 
+## Wybrane projekty
+|Project|Opis|Link|
+|-------|----|----|
+
+
 ## Statystyki
 ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=LesyaLesnichok&show_icons=true&theme=tokyonight)
 
